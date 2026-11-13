@@ -1,0 +1,37 @@
+model,model_year,category,complaints
+MODEL 3,2021,Driver assistance & software,461
+MODEL 3,2021,Electrical & electronics,48
+MODEL 3,2021,"Battery, charging & propulsion",48
+MODEL 3,2021,"Body, doors & glass",34
+MODEL 3,2021,Restraints & seats,21
+MODEL 3,2021,"Suspension, wheels & tires",20
+MODEL 3,2021,Other,16
+MODEL 3,2021,Steering,15
+MODEL 3,2021,Brakes,12
+MODEL 3,2022,Driver assistance & software,596
+MODEL 3,2022,"Battery, charging & propulsion",40
+MODEL 3,2022,Restraints & seats,28
+MODEL 3,2022,Steering,24
+MODEL 3,2022,Electrical & electronics,23
+MODEL 3,2022,"Body, doors & glass",23
+MODEL 3,2022,"Suspension, wheels & tires",15
+MODEL 3,2022,Brakes,13
+MODEL 3,2022,Other,12
+MODEL 3,2023,Driver assistance & software,214
+MODEL 3,2023,Steering,67
+MODEL 3,2023,"Battery, charging & propulsion",39
+MODEL 3,2023,"Body, doors & glass",37
+MODEL 3,2023,"Suspension, wheels & tires",23
+MODEL 3,2023,Restraints & seats,22
+MODEL 3,2023,Brakes,12
+MODEL 3,2023,Electrical & electronics,11
+MODEL 3,2023,Other,5
+MODEL 3,2024,Electrical & electronics,89
+MODEL 3,2024,Driver assistance & software,80
+MODEL 3,2024,Steering,16
+MODEL 3,2024,"Battery, charging & propulsion",10
+MODEL 3,2024,Restraints & seats,9
+MODEL 3,2024,"Suspension, wheels & tires",7
+MODEL 3,2024,"Body, doors & glass",7
+MODEL 3,2024,Other,3
+MODEL 3,2024,Brakes,3

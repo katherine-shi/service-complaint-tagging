@@ -1,0 +1,401 @@
+odi_number,nhtsa_components,category
+11394526,UNKNOWN OR OTHER,Electrical & electronics
+11395970,UNKNOWN OR OTHER,"Body, doors & glass"
+11399195,"VEHICLE SPEED CONTROL,UNKNOWN OR OTHER,SERVICE BRAKES",Electrical & electronics
+11407652,ELECTRICAL SYSTEM,Driver assistance & software
+11418225,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11419673,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11422416,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11423248,"ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,ENGINE",Other
+11428290,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER,FORWARD COLLISION AVOIDANCE",Other
+11429782,UNKNOWN OR OTHER,Electrical & electronics
+11430930,"STEERING,VEHICLE SPEED CONTROL,SERVICE BRAKES","Battery, charging & propulsion"
+11439598,UNKNOWN OR OTHER,Electrical & electronics
+11440473,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11444772,"STRUCTURE,WHEELS",Driver assistance & software
+11444969,VISIBILITY/WIPER,Electrical & electronics
+11445011,UNKNOWN OR OTHER,Electrical & electronics
+11445033,UNKNOWN OR OTHER,Electrical & electronics
+11445298,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Electrical & electronics
+11447184,UNKNOWN OR OTHER,Electrical & electronics
+11447214,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Electrical & electronics
+11447475,SERVICE BRAKES,Driver assistance & software
+11447509,UNKNOWN OR OTHER,Electrical & electronics
+11447676,VISIBILITY/WIPER,Electrical & electronics
+11447944,ELECTRICAL SYSTEM,"Body, doors & glass"
+11448052,VISIBILITY/WIPER,Electrical & electronics
+11448332,UNKNOWN OR OTHER,Electrical & electronics
+11448347,UNKNOWN OR OTHER,Electrical & electronics
+11448542,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Electrical & electronics
+11449538,ELECTRICAL SYSTEM,Driver assistance & software
+11450090,"SERVICE BRAKES,ELECTRICAL SYSTEM",Driver assistance & software
+11450154,ELECTRICAL SYSTEM,Driver assistance & software
+11450290,SERVICE BRAKES,Driver assistance & software
+11450349,SERVICE BRAKES,Driver assistance & software
+11450395,ELECTRICAL SYSTEM,Driver assistance & software
+11450405,VISIBILITY/WIPER,Electrical & electronics
+11450776,UNKNOWN OR OTHER,Electrical & electronics
+11451270,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11451459,ELECTRICAL SYSTEM,Driver assistance & software
+11452699,"VISIBILITY/WIPER,FORWARD COLLISION AVOIDANCE",Electrical & electronics
+11452832,VISIBILITY/WIPER,Electrical & electronics
+11452966,SERVICE BRAKES,Driver assistance & software
+11453389,ELECTRICAL SYSTEM,Driver assistance & software
+11453654,SERVICE BRAKES,Driver assistance & software
+11454231,"VISIBILITY/WIPER,LANE DEPARTURE",Electrical & electronics
+11454232,"STEERING,POWER TRAIN,VEHICLE SPEED CONTROL",Brakes
+11454270,"VEHICLE SPEED CONTROL,SERVICE BRAKES","Battery, charging & propulsion"
+11454547,SERVICE BRAKES,Driver assistance & software
+11455347,"VEHICLE SPEED CONTROL,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11457314,UNKNOWN OR OTHER,Electrical & electronics
+11457374,ELECTRICAL SYSTEM,Driver assistance & software
+11457425,UNKNOWN OR OTHER,Electrical & electronics
+11458326,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Driver assistance & software
+11459066,SERVICE BRAKES,Driver assistance & software
+11459140,ELECTRICAL SYSTEM,Restraints & seats
+11463643,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11463866,SERVICE BRAKES,Driver assistance & software
+11464232,UNKNOWN OR OTHER,"Body, doors & glass"
+11464349,UNKNOWN OR OTHER,Electrical & electronics
+11464369,ELECTRICAL SYSTEM,"Body, doors & glass"
+11464870,UNKNOWN OR OTHER,Electrical & electronics
+11466129,"VEHICLE SPEED CONTROL,SERVICE BRAKES","Battery, charging & propulsion"
+11466262,"FIRERELATED,STEERING",Driver assistance & software
+11466645,LANE DEPARTURE,Electrical & electronics
+11467586,SERVICE BRAKES,Driver assistance & software
+11470346,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11470993,"WHEELS,SERVICE BRAKES,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11472737,"STEERING,ELECTRICAL SYSTEM,SERVICE BRAKES",Driver assistance & software
+11474080,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11474563,SERVICE BRAKES,Driver assistance & software
+11474596,SERVICE BRAKES,Driver assistance & software
+11474644,SERVICE BRAKES,Driver assistance & software
+11474990,FORWARD COLLISION AVOIDANCE,"Battery, charging & propulsion"
+11475143,UNKNOWN OR OTHER,Driver assistance & software
+11475289,UNKNOWN OR OTHER,"Body, doors & glass"
+11476477,UNKNOWN OR OTHER,Electrical & electronics
+11477005,SERVICE BRAKES,Driver assistance & software
+11478932,VEHICLE SPEED CONTROL,Brakes
+11479097,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11480491,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11480915,UNKNOWN OR OTHER,Electrical & electronics
+11481379,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11481824,"SERVICE BRAKES, AIR,VEHICLE SPEED CONTROL","Battery, charging & propulsion"
+11481914,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11482271,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11484903,"VEHICLE SPEED CONTROL,LANE DEPARTURE","Battery, charging & propulsion"
+11489364,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Body, doors & glass"
+11490847,"LANE DEPARTURE,BACK OVER PREVENTION,FORWARD COLLISION AVOIDANCE",Electrical & electronics
+11492343,UNKNOWN OR OTHER,"Suspension, wheels & tires"
+11493648,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11494653,UNKNOWN OR OTHER,Restraints & seats
+11494868,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER",Other
+11495036,ELECTRICAL SYSTEM,"Body, doors & glass"
+11495717,"ELECTRICAL SYSTEM,VISIBILITY/WIPER",Other
+11495849,ELECTRICAL SYSTEM,Other
+11495944,FUEL/PROPULSION SYSTEM,Driver assistance & software
+11496152,ELECTRICAL SYSTEM,Driver assistance & software
+11496845,"ENGINE,FORWARD COLLISION AVOIDANCE",Other
+11497495,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11497864,UNKNOWN OR OTHER,Driver assistance & software
+11498625,UNKNOWN OR OTHER,Driver assistance & software
+11499129,"ELECTRICAL SYSTEM,VISIBILITY/WIPER",Other
+11499404,VISIBILITY/WIPER,Other
+11501193,POWER TRAIN,Restraints & seats
+11501877,VISIBILITY/WIPER,Driver assistance & software
+11502891,UNKNOWN OR OTHER,Driver assistance & software
+11503723,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11503948,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11505120,VISIBILITY/WIPER,Driver assistance & software
+11505587,SERVICE BRAKES,Driver assistance & software
+11506942,ELECTRICAL SYSTEM,Driver assistance & software
+11507081,ELECTRICAL SYSTEM,"Body, doors & glass"
+11507658,SERVICE BRAKES,Driver assistance & software
+11508356,"STEERING,POWER TRAIN,SERVICE BRAKES",Driver assistance & software
+11508909,"ELECTRICAL SYSTEM,FORWARD COLLISION AVOIDANCE","Body, doors & glass"
+11509108,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11511365,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11512658,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11514373,UNKNOWN OR OTHER,Electrical & electronics
+11515608,UNKNOWN OR OTHER,"Body, doors & glass"
+11516816,UNKNOWN OR OTHER,Driver assistance & software
+11517985,"STRUCTURE,UNKNOWN OR OTHER",Steering
+11518284,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11518621,UNKNOWN OR OTHER,Electrical & electronics
+11522805,UNKNOWN OR OTHER,Driver assistance & software
+11523177,"ELECTRICAL SYSTEM,VISIBILITY/WIPER",Driver assistance & software
+11523987,FORWARD COLLISION AVOIDANCE,Brakes
+11524131,"ELECTRICAL SYSTEM,SEAT BELTS,UNKNOWN OR OTHER",Driver assistance & software
+11524148,SERVICE BRAKES,Driver assistance & software
+11527048,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11527989,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11528195,"STRUCTURE,VEHICLE SPEED CONTROL",Brakes
+11528471,"VEHICLE SPEED CONTROL,ELECTRICAL SYSTEM","Battery, charging & propulsion"
+11530436,ENGINE AND ENGINE COOLING,Other
+11531001,UNKNOWN OR OTHER,Driver assistance & software
+11531147,SERVICE BRAKES,Driver assistance & software
+11531224,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11533039,SERVICE BRAKES,Driver assistance & software
+11533054,FORWARD COLLISION AVOIDANCE,"Battery, charging & propulsion"
+11533168,UNKNOWN OR OTHER,Driver assistance & software
+11533441,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11533902,UNKNOWN OR OTHER,"Body, doors & glass"
+11534804,ELECTRICAL SYSTEM,Driver assistance & software
+11534805,UNKNOWN OR OTHER,Driver assistance & software
+11534895,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11535039,UNKNOWN OR OTHER,Driver assistance & software
+11535284,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11535584,SERVICE BRAKES,"Battery, charging & propulsion"
+11535968,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11536158,"VEHICLE SPEED CONTROL,SERVICE BRAKES,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11537299,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11537656,"STEERING,VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11537917,"STRUCTURE,VEHICLE SPEED CONTROL,WHEELS","Battery, charging & propulsion"
+11538134,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11538768,VEHICLE SPEED CONTROL,Electrical & electronics
+11538889,"ELECTRICAL SYSTEM,SERVICE BRAKES",Driver assistance & software
+11539255,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11539308,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11542223,UNKNOWN OR OTHER,Steering
+11543654,UNKNOWN OR OTHER,Restraints & seats
+11543898,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11543982,SEATS,"Body, doors & glass"
+11544346,UNKNOWN OR OTHER,"Body, doors & glass"
+11544927,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11545439,UNKNOWN OR OTHER,Brakes
+11545791,VISIBILITY/WIPER,Electrical & electronics
+11549136,VISIBILITY/WIPER,Electrical & electronics
+11553516,UNKNOWN OR OTHER,"Body, doors & glass"
+11553884,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11554432,"ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11554773,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11555724,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11556190,"VEHICLE SPEED CONTROL,SERVICE BRAKES","Battery, charging & propulsion"
+11556904,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11558074,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11558300,"SERVICE BRAKES,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11560099,"UNKNOWN OR OTHER,SERVICE BRAKES",Driver assistance & software
+11560173,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11560473,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11561025,UNKNOWN OR OTHER,Driver assistance & software
+11561856,ELECTRICAL SYSTEM,Steering
+11561884,UNKNOWN OR OTHER,Driver assistance & software
+11564375,UNKNOWN OR OTHER,Driver assistance & software
+11564763,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11566155,UNKNOWN OR OTHER,"Body, doors & glass"
+11566447,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11566451,UNKNOWN OR OTHER,Electrical & electronics
+11566722,SEATS,Electrical & electronics
+11567124,VISIBILITY/WIPER,Driver assistance & software
+11567311,"POWER TRAIN,ELECTRICAL SYSTEM,SERVICE BRAKES",Driver assistance & software
+11568520,UNKNOWN OR OTHER,Driver assistance & software
+11568838,UNKNOWN OR OTHER,Driver assistance & software
+11569012,"ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM",Other
+11569323,"STEERING,UNKNOWN OR OTHER",Driver assistance & software
+11570081,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER",Driver assistance & software
+11570140,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11570164,VISIBILITY/WIPER,Driver assistance & software
+11570958,VISIBILITY/WIPER,Driver assistance & software
+11571652,"ELECTRICAL SYSTEM,FORWARD COLLISION AVOIDANCE",Steering
+11572553,VISIBILITY/WIPER,Driver assistance & software
+11572649,UNKNOWN OR OTHER,Driver assistance & software
+11573075,UNKNOWN OR OTHER,Driver assistance & software
+11573266,"VEHICLE SPEED CONTROL,UNKNOWN OR OTHER,SERVICE BRAKES","Battery, charging & propulsion"
+11573312,"ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,LANE DEPARTURE","Battery, charging & propulsion"
+11574571,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11574681,VISIBILITY/WIPER,Driver assistance & software
+11575039,UNKNOWN OR OTHER,Driver assistance & software
+11575391,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11575945,"ELECTRICAL SYSTEM,SEAT BELTS,UNKNOWN OR OTHER",Other
+11576249,VEHICLE SPEED CONTROL,Other
+11577466,"ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11579099,UNKNOWN OR OTHER,"Battery, charging & propulsion"
+11579208,VISIBILITY/WIPER,Driver assistance & software
+11579796,"STEERING,ELECTRICAL SYSTEM,UNKNOWN OR OTHER",Driver assistance & software
+11580748,UNKNOWN OR OTHER,Driver assistance & software
+11581314,ELECTRICAL SYSTEM,Driver assistance & software
+11582246,ENGINE,Steering
+11582505,"ELECTRICAL SYSTEM,EXTERIOR LIGHTING",Driver assistance & software
+11582521,FORWARD COLLISION AVOIDANCE,Brakes
+11582681,VISIBILITY/WIPER,Electrical & electronics
+11582701,STEERING,Other
+11583050,EXTERIOR LIGHTING,"Body, doors & glass"
+11583618,ELECTRICAL SYSTEM,Other
+11584975,UNKNOWN OR OTHER,Driver assistance & software
+11585722,UNKNOWN OR OTHER,"Body, doors & glass"
+11585742,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11585875,"POWER TRAIN,UNKNOWN OR OTHER",Electrical & electronics
+11588361,UNKNOWN OR OTHER,Electrical & electronics
+11588874,WHEELS,Driver assistance & software
+11589415,SERVICE BRAKES,Driver assistance & software
+11590171,"POWER TRAIN,FUEL/PROPULSION SYSTEM",Driver assistance & software
+11591417,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11593537,UNKNOWN OR OTHER,Driver assistance & software
+11594150,UNKNOWN OR OTHER,Electrical & electronics
+11594292,UNKNOWN OR OTHER,Electrical & electronics
+11596070,"AIR BAGS,VEHICLE SPEED CONTROL,SEATS","Battery, charging & propulsion"
+11596590,"STEERING,STRUCTURE",Electrical & electronics
+11596894,STEERING,Electrical & electronics
+11597099,"POWER TRAIN,VISIBILITY/WIPER",Driver assistance & software
+11597267,EXTERIOR LIGHTING,Driver assistance & software
+11597350,UNKNOWN OR OTHER,Electrical & electronics
+11597362,UNKNOWN OR OTHER,Driver assistance & software
+11597512,UNKNOWN OR OTHER,"Body, doors & glass"
+11598032,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11601211,UNKNOWN OR OTHER,Electrical & electronics
+11601832,UNKNOWN OR OTHER,Electrical & electronics
+11602680,UNKNOWN OR OTHER,Driver assistance & software
+11603300,"STEERING,UNKNOWN OR OTHER",Electrical & electronics
+11603942,STEERING,Electrical & electronics
+11604498,UNKNOWN OR OTHER,Driver assistance & software
+11604656,UNKNOWN OR OTHER,Electrical & electronics
+11604925,STEERING,Electrical & electronics
+11604984,"ELECTRICAL SYSTEM,SERVICE BRAKES,FUEL/PROPULSION SYSTEM",Driver assistance & software
+11605916,STEERING,Electrical & electronics
+11606677,UNKNOWN OR OTHER,Driver assistance & software
+11606838,UNKNOWN OR OTHER,Driver assistance & software
+11606930,UNKNOWN OR OTHER,Electrical & electronics
+11606952,UNKNOWN OR OTHER,Electrical & electronics
+11607131,UNKNOWN OR OTHER,Electrical & electronics
+11607538,"STEERING,WHEELS,SERVICE BRAKES",Driver assistance & software
+11607645,UNKNOWN OR OTHER,Electrical & electronics
+11608657,SUSPENSION,Steering
+11608863,UNKNOWN OR OTHER,Electrical & electronics
+11609605,UNKNOWN OR OTHER,Driver assistance & software
+11609726,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Body, doors & glass"
+11610603,UNKNOWN OR OTHER,Driver assistance & software
+11612598,UNKNOWN OR OTHER,Electrical & electronics
+11614411,ELECTRICAL SYSTEM,Driver assistance & software
+11617065,STEERING,Electrical & electronics
+11618526,UNKNOWN OR OTHER,Driver assistance & software
+11619219,"STEERING,UNKNOWN OR OTHER",Electrical & electronics
+11620646,UNKNOWN OR OTHER,Electrical & electronics
+11621596,SUSPENSION,Other
+11621861,UNKNOWN OR OTHER,Electrical & electronics
+11622030,UNKNOWN OR OTHER,"Body, doors & glass"
+11622251,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11622289,UNKNOWN OR OTHER,Electrical & electronics
+11622529,UNKNOWN OR OTHER,Driver assistance & software
+11623506,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11625957,STEERING,Electrical & electronics
+11626305,"EXTERIOR LIGHTING,UNKNOWN OR OTHER",Driver assistance & software
+11626500,UNKNOWN OR OTHER,Driver assistance & software
+11627119,UNKNOWN OR OTHER,"Body, doors & glass"
+11627631,UNKNOWN OR OTHER,Electrical & electronics
+11628269,UNKNOWN OR OTHER,"Body, doors & glass"
+11628595,"STEERING,ELECTRICAL SYSTEM,SERVICE BRAKES",Other
+11629823,VEHICLE SPEED CONTROL,Other
+11629835,"STEERING,UNKNOWN OR OTHER",Electrical & electronics
+11630432,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11630921,"STEERING,ELECTRICAL SYSTEM,SERVICE BRAKES",Driver assistance & software
+11631537,ELECTRICAL SYSTEM,Driver assistance & software
+11632235,STEERING,Electrical & electronics
+11632501,ELECTRICAL SYSTEM,Driver assistance & software
+11632784,UNKNOWN OR OTHER,Electrical & electronics
+11632963,UNKNOWN OR OTHER,Driver assistance & software
+11633910,UNKNOWN OR OTHER,Electrical & electronics
+11634004,STEERING,Electrical & electronics
+11634753,"ELECTRICAL SYSTEM,STRUCTURE,UNKNOWN OR OTHER",Driver assistance & software
+11635232,UNKNOWN OR OTHER,Electrical & electronics
+11635234,UNKNOWN OR OTHER,Electrical & electronics
+11635250,UNKNOWN OR OTHER,Electrical & electronics
+11635280,UNKNOWN OR OTHER,Electrical & electronics
+11636379,"STRUCTURE,VISIBILITY/WIPER",Driver assistance & software
+11638815,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11639558,"WHEELS,LANE DEPARTURE,FORWARD COLLISION AVOIDANCE","Battery, charging & propulsion"
+11643083,UNKNOWN OR OTHER,Electrical & electronics
+11643728,VISIBILITY,Other
+11643931,VISIBILITY,Driver assistance & software
+11644114,"LANE DEPARTURE,FORWARD COLLISION AVOIDANCE,ELECTRICAL SYSTEM",Other
+11647863,"VEHICLE SPEED CONTROL,ELECTRICAL SYSTEM",Other
+11647988,UNKNOWN OR OTHER,Electrical & electronics
+11650420,UNKNOWN OR OTHER,Electrical & electronics
+11652928,VISIBILITY,Electrical & electronics
+11656199,LATCHES/LOCKS/LINKAGES,"Battery, charging & propulsion"
+11657911,STEERING,Electrical & electronics
+11658337,UNKNOWN OR OTHER,Restraints & seats
+11663381,"ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL","Battery, charging & propulsion"
+11664137,UNKNOWN OR OTHER,Electrical & electronics
+11664877,ELECTRICAL SYSTEM,Driver assistance & software
+11665526,SERVICE BRAKES,Driver assistance & software
+11666208,UNKNOWN OR OTHER,Electrical & electronics
+11673307,UNKNOWN OR OTHER,Electrical & electronics
+11678889,BACK OVER PREVENTION,Electrical & electronics
+11680594,UNKNOWN OR OTHER,Driver assistance & software
+11682105,UNKNOWN OR OTHER,Electrical & electronics
+11682153,"ELECTRICAL SYSTEM,AIR BAGS",Driver assistance & software
+11683770,UNKNOWN OR OTHER,Driver assistance & software
+11684448,ELECTRICAL SYSTEM,Other
+11685171,SERVICE BRAKES,Driver assistance & software
+11686262,LANE DEPARTURE,Electrical & electronics
+11688235,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Body, doors & glass"
+11690233,UNKNOWN OR OTHER,"Body, doors & glass"
+11691405,UNKNOWN OR OTHER,"Body, doors & glass"
+11691520,UNKNOWN OR OTHER,Electrical & electronics
+11692196,UNKNOWN OR OTHER,"Body, doors & glass"
+11693997,UNKNOWN OR OTHER,Driver assistance & software
+11694034,UNKNOWN OR OTHER,Driver assistance & software
+11695614,UNKNOWN OR OTHER,"Body, doors & glass"
+11696488,UNKNOWN OR OTHER,Electrical & electronics
+11697082,UNKNOWN OR OTHER,Electrical & electronics
+11697649,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11701836,"ELECTRICAL SYSTEM,STRUCTURE,UNKNOWN OR OTHER","Battery, charging & propulsion"
+11702043,UNKNOWN OR OTHER,"Body, doors & glass"
+11702595,VISIBILITY/WIPER,Electrical & electronics
+11704483,UNKNOWN OR OTHER,Electrical & electronics
+11706220,VISIBILITY/WIPER,Driver assistance & software
+11711027,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER","Body, doors & glass"
+11711146,"UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11713633,UNKNOWN OR OTHER,"Body, doors & glass"
+11715170,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER,VISIBILITY/WIPER",Other
+11715178,UNKNOWN OR OTHER,Driver assistance & software
+11716471,UNKNOWN OR OTHER,"Body, doors & glass"
+11716718,ELECTRICAL SYSTEM,Driver assistance & software
+11717809,POWER TRAIN,Other
+11718376,UNKNOWN OR OTHER,Steering
+11721824,"ELECTRICAL SYSTEM,FUEL/PROPULSION SYSTEM,VISIBILITY/WIPER",Other
+11722702,ELECTRICAL SYSTEM,"Body, doors & glass"
+11725482,ELECTRICAL SYSTEM,"Body, doors & glass"
+11730042,UNKNOWN OR OTHER,"Body, doors & glass"
+11733637,ELECTRICAL SYSTEM,Steering
+11733743,STEERING,Electrical & electronics
+11733826,UNKNOWN OR OTHER,Electrical & electronics
+11734368,ELECTRICAL SYSTEM,Driver assistance & software
+11735696,UNKNOWN OR OTHER,Driver assistance & software
+11736600,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11736685,"ELECTRICAL SYSTEM,UNKNOWN OR OTHER,ENGINE",Driver assistance & software
+11738201,ELECTRICAL SYSTEM,Driver assistance & software
+11739198,UNKNOWN OR OTHER,"Body, doors & glass"
+11742199,ELECTRICAL SYSTEM,"Body, doors & glass"
+11742761,"VEHICLE SPEED CONTROL,SERVICE BRAKES","Battery, charging & propulsion"
+11745062,UNKNOWN OR OTHER,"Body, doors & glass"
+11745492,UNKNOWN OR OTHER,"Body, doors & glass"
+11745925,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11746195,ELECTRICAL SYSTEM,Driver assistance & software
+11746845,VEHICLE SPEED CONTROL,"Battery, charging & propulsion"
+11746987,UNKNOWN OR OTHER,Driver assistance & software
+11747194,"STEERING,STRUCTURE,VEHICLE SPEED CONTROL","Battery, charging & propulsion"
+11748800,STRUCTURE,Driver assistance & software
+11749005,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11749288,UNKNOWN OR OTHER,Driver assistance & software
+11749349,ELECTRICAL SYSTEM,Driver assistance & software
+11750373,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11751698,"ELECTRICAL SYSTEM,AIR BAGS,STRUCTURE",Steering
+11752414,UNKNOWN OR OTHER,Driver assistance & software
+11753472,UNKNOWN OR OTHER,"Body, doors & glass"
+11755495,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11755531,"ELECTRICAL SYSTEM,EXTERIOR LIGHTING",Driver assistance & software
+11756205,UNKNOWN OR OTHER,Driver assistance & software
+11757541,"ELECTRICAL SYSTEM,EXTERIOR LIGHTING",Steering
+11757620,UNKNOWN OR OTHER,Driver assistance & software
+11758408,UNKNOWN OR OTHER,Electrical & electronics
+11759469,UNKNOWN OR OTHER,Driver assistance & software
+11766472,VISIBILITY/WIPER,Driver assistance & software
+11769220,ELECTRICAL SYSTEM,Driver assistance & software
+11770166,ELECTRICAL SYSTEM,Driver assistance & software
+11770587,ELECTRICAL SYSTEM,"Battery, charging & propulsion"
+11772197,"STEERING,UNKNOWN OR OTHER",Driver assistance & software
+11772374,"STEERING,ELECTRICAL SYSTEM,VEHICLE SPEED CONTROL","Battery, charging & propulsion"
+11773065,UNKNOWN OR OTHER,Driver assistance & software
+11773642,UNKNOWN OR OTHER,Driver assistance & software
+11775199,ELECTRICAL SYSTEM,Driver assistance & software
